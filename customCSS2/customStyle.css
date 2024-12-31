@@ -1,0 +1,384 @@
+.logo-image {
+    display: flex;
+    align-items: center;
+}
+
+.logo-image img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+}
+
+.c-image__image {
+    background-image: url(../image/bannerUTE1960.png) !important;
+    background-position: center;
+}
+
+.site-trigger--hot-links__text {
+    background-color: #3782f5 !important;
+}
+
+.site-trigger--hot-links {
+    border: 1px solid #3782f5 !important;
+}
+
+.text-explore-hst {
+    margin-top: 60px !important;
+}
+
+.c-statistic__value {
+    color: #3782f5 !important;
+}
+
+.c-block--width-grid:not(.c-block--layout-center) .b-timeline__container:before {
+    border: 1px solid #3782f5 !important;
+}
+
+.c-block--width-grid:not(.c-block--layout-center) .b-timeline__container:after {
+    background-color: #3782f5 !important;
+}
+
+.b-timeline__content .an-will-animate .an-was-on-viewport .an-on-viewport .an-on-viewport-mid .an-on-viewport-full {
+    margin-top: 20px !important;
+}
+
+.pd-stories1960 {
+    padding-top: 100px !important;
+}
+
+.wrapper-history-head {
+    padding-top: 30px;
+}
+
+.note-htr-wrapper {
+    display: flex;
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.note-htr-inner {
+    display: inline-block;
+    padding: 4px;
+    border: 1px solid #3282fb;
+    border-radius: 50%;
+}
+
+.note-htr-head {
+    width: 8px;
+    height: 8px;
+    background-color: #3282fb;
+    border-radius: 50%;
+}
+
+.note-htr-wrapper .textHTRLINE {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 100%;
+    width: 300px;
+}
+
+.taitroute {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+
+.taitroute .taitro-text {
+    position: absolute;
+    left: 50%;
+    top: 100px;
+    width: 550px;
+}
+
+.pd-stories1960 .text {
+    padding-bottom: 50px;
+    border-bottom: 1px solid #bac5c6;
+}
+
+.ct-contentLeft1962 {
+    align-self: center !important;
+}
+
+.space-footer {
+    display: flex;
+    padding: 40px 0;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: white;
+}
+
+.space-footer marquee {
+    font-size: 1.6rem;
+}
+
+.space-footer marquee span:nth-child(even) {
+    font-weight: 700;
+    opacity: 0.8;
+}
+
+.customImageTaiTro {
+    background-image: url('./image/taitro2.png') !important;
+}
+
+.a-btn-secondary.is-style-light .a-btn__text:before,
+.t-sink.is-style-group-dark-bg .a-btn-secondary .a-btn__text:before,
+.t-sink.is-style-group-dark-bg .t-sink .wp-block-group__inner-container a.a-btn-secondary .a-btn__text:before,
+.t-sink.is-style-group-dark-bg .t-sink a.a-btn-secondary .a-btn__text:before,
+.t-sink.is-style-group-dark-bg a.a-btn-secondary .a-btn__text:before,
+.t-sink .wp-block-group__inner-container a.a-btn-secondary.is-style-light .a-btn__text:before,
+.t-sink a.a-btn-secondary.is-style-light .a-btn__text:before,
+.t-theme--light .a-btn-secondary .a-btn__text:before,
+.t-theme--light .t-sink .wp-block-group__inner-container a.a-btn-secondary .a-btn__text:before,
+.t-theme--light .t-sink a.a-btn-secondary .a-btn__text:before,
+.t-theme--light a.a-btn-secondary .a-btn__text:before,
+a.a-btn-secondary.is-style-light .a-btn__text:before {
+    background-color: #3282fb !important;
+    border-color: #3282fb !important;
+}
+
+@keyframes animate {
+    0% {
+        background-position: -500%;
+    }
+    100% {
+        background-position: 500%;
+    }
+}
+
+@media screen and (min-width: 300px) {
+    .nav-hot-links__item:first-of-type .nav-hot-links__action:before {
+        background-color: #3282fb !important;
+        border: 1px solid #3782f5 !important;
+    }
+}
+
+@media screen and (min-width: 360px) {
+    .c-block.c-block--is-video .b-timeline__content {
+        margin-top: 12px !important;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .hl-img-1960L {
+        display: flex;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .note-htr-wrapper .textHTRLINE {
+        bottom: -28px !important;
+        top: auto;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
+body .t-sink>p,
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight: 450 !important;
+}
+
+body strong {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+body .has-text-align-center a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight: 650 !important;
+}
+
+body .has-text-align-center a:hover {
+    color: #3282fb !important;
+    border-bottom: 1px solid #3282fb !important;
+}
+
+.b-timeline__container:after {
+    background-color: #3282fb !important;
+}
+
+.b-timeline__container:before {
+    border: 1px solid #3282fb !important;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    width: auto;
+    height: auto;
+    line-height: 0;
+}
+
+.site-footer__logo img {
+    width: 35%;
+    height: auto;
+}
+
+.site-footer__logo a:hover {
+    border-bottom: none;
+}
+
+.site-footer__copyright {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight: 500 !important;
+    text-align: center;
+}
+
+marquee {
+    position: absolute;
+    top: 1.25rem;
+    left: 0;
+    width: 100%;
+    font-size: 1.25rem;
+    line-height: 1;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight: 600 !important;
+}
+
+marquee span {
+    margin: 0.75rem;
+}
+
+marquee span:nth-child(even) {
+    font-weight: 800 !important;
+}
+
+.site-trigger-item:last-of-type {
+    border: none;
+}
+
+/* @media (min-width: 375px) {
+    .logo {
+        width: 142px;
+        height: 36px
+    }
+}
+
+@media (min-width: 768px) {
+    .logo {
+        width: 166px;
+        height: 42px
+    }
+}
+
+@media (min-width: 1260px) {
+    .logo {
+        width: 190px;
+        height: 48px
+    }
+} */
+
+/* on the history page, make the line full height for now */
+
+.page-harvard-history .the-follower {
+    height: 100% !important;
+}
+
+/* on the history page, make the line not run through the red dots */
+
+.page-harvard-history .c-block--width-grid:not(.c-block--layout-center) .b-timeline__container:before,
+.page-harvard-history .c-block--width-grid:not(.c-block--layout-center) .b-timeline__container:after {
+    z-index: 2;
+}
+
+/* temporary fix to give a max-width to the hero underline */
+
+.b-hero .c-content-block__underline {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 624px;
+}
+
+/* colorful hr */
+
+.wp-block-separator.colorful-hr {
+    margin-bottom: 20px;
+}
+
+.wp-block-separator.colorful-hr:after {
+    border-bottom-width: 20px;
+    height: 20px;
+}
+
+.wp-block-separator.colorful-hr.color-ivy:after {
+    border-bottom-color: #52854c;
+}
+
+.wp-block-separator.colorful-hr.color-blue:after {
+    border-bottom-color: #4e84c4;
+}
+
+.wp-block-separator.colorful-hr.color-saffron:after {
+    border-bottom-color: #d16103;
+}
+
+.wp-block-separator.colorful-hr.color-lemon:after {
+    border-bottom-color: #ffdb6d;
+}
+
+/* section header - tall line and color options */
+
+.b-header.c-block.tall-line .b-header__border:after {
+    border-bottom-width: 20px;
+}
+
+.b-header.c-block.color-saffron .b-header__border:after {
+    border-color: #d16103;
+}
+
+.b-header.c-block.color-blue .b-header__border:after {
+    border-color: #4e84c4;
+}
+
+.b-header.c-block.color-ivy .b-header__border:after {
+    border-color: #52854c;
+}
+
+.b-header.c-block.color-lemon .b-header__border:after {
+    border-color: #ffdb6d;
+}
+
+/** 
+  Temporary fix for Firefox v 78  
+  removed 
+  :not(.is-style-XX-Large.has-text-align-center)
+  **/
+
+.t-sink>.wp-block-group__inner-container> :not(.c-block):not(.alignwide):not(.html-alignwide):not(.align-wide):not(.alignfull):not(.wp-block-embed):not(.is-style-pull-quote) {
+    max-width: 624px;
+    width: calc(100% - 48px);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/**
+   * Page specific fix
+   * Looking back in 2021 In Focus
+   * remove space above video
+   */
+
+.postid-23525 .c-block.hide-border .b-header__container .b-header__border {
+    display: none;
+}
+
+.page-id-6392 .c-block.hide-border .b-header__container .b-header__border {
+    display: none;
+}
+
+/**
+   * Try out smooth scroll behavior
+   * */
+
+html {
+    scroll-behavior: smooth;
+}
